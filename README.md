@@ -16,11 +16,11 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=puzann7&theme=dark&hide_border=false" alt="Streak Stats" />
 </p>
-###
+
 
 <img align="right" height="150" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
